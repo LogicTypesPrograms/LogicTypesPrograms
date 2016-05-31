@@ -6,6 +6,6 @@ To create an inclusive and open space we ask you to follow the [Berlin Code of C
 
 ## Learning Resources
 
-The [notes](No02_Logic_for_Everyone) from our second Meetup contain a wealth of good learning resources.
-Furthermore, the [http://openlogicproject.org/](Open Logic Project) provides
+The [notes](No02_Logic_for_Everyone/LearningResources.md) from our second Meetup contain a wealth of good learning resources.
+Furthermore, the [Open Logic Project](http://openlogicproject.org/) provides
 a great free and open-source textbook aimed at a non-mathematical audience.
